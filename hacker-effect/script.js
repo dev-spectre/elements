@@ -29,3 +29,4 @@ const div = document.getElementById("hacker-effect");
 const text = div.innerText;
 div.addEventListener("mouseover", hackerEffect.bind(div, text));
 div.addEventListener("touchend", hackerEffect.bind(div, text));
+hackerEffect.call(div, text);
