@@ -40,6 +40,10 @@ Open any `index.html` in a browser. No build step required.
     └── css.png
 ```
 
+
+## Screenshots
+
+![screenshot](screenshots/home.png)
 ## License
 
 MIT
